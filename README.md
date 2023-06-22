@@ -6,10 +6,6 @@ install dev dependencies
 
 ## Then
 
-go to https://www.themoviedb.org, create an account and get the api key, then use that api key in constants/index.js file
-
-## Then
-
 Run The app
 
 ### `npm start`
@@ -29,8 +25,3 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 <br />
 
 💙 If you like this project, give it a ⭐ and share it with friends!
-
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitter.com/codewithnomi_"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
